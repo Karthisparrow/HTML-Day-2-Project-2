@@ -1,0 +1,14 @@
+ol{
+    color: royalblue;
+}
+table,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(163, 214, 203);
+}
+   
